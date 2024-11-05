@@ -1,6 +1,6 @@
 # Problem Statement: [https://leetcode.com/problems/majority-element/description/](https://leetcode.com/problems/majority-element/description/)
 # My Solution: 
-```
+```c
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
